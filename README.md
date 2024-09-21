@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%ffffff&size=25&weight=800&center=true&vCenter=true&width=600&height=70&lines=Coder;Web+Developer;ECE+Student"></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h3 align="center">A passionate Engineer</h3>
+<h3 align="center">ECE Student,A passionate Engineer,Exploring New Innovative Technologies</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **`HTML, CSS, JAVASCRIPT,C++,DSA`.**
 - 📫 How to reach me **sagarde2004@gmail.com**
--  ⚡ Fun fact `Coding: Where a missing comma can cause global chaos online😂`
+-  ⚡ Fun fact `Coding like poetry should be short and concise😂`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
