@@ -25,6 +25,8 @@
 <a href="https://twitter.com/@sagarde713523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sagarde713523" height="30" width="40" /></a>
 <a href="https://instagram.com/sagarde777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagarde777" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sagar-de-76619628b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-de-76619628b/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Sagar_De/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Sagar_De/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/sagardwlgr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sagardwlgr/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
