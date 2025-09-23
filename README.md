@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sagarde713523" target="blank"><img src="https://img.shields.io/twitter/follow/@sagarde713523?logo=twitter&style=for-the-badge" alt="@sagarde713523" /></a> </p>
 
-- 🤹‍♂️ I am a `2nd Year Student` at `Netaji Subhash Engineering College`.
+- 🤹‍♂️ I am a `3rd Year Student` at `Netaji Subhash Engineering College`.
 
 - 🤹‍♂️ I’m currently learning `Data Structure` & `Web Development`.
 
