@@ -77,6 +77,14 @@
 
 ---
 
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarde007&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph">
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
