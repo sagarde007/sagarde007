@@ -1,39 +1,96 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sagar De</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%ffffff&size=25&weight=800&center=true&vCenter=true&width=600&height=70&lines=Coder;Web+Developer;ECE+Student"></a>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h3 align="center">ECE Student,A passionate Engineer,Exploring New Innovative Technologies</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <h1>Hey, I'm Sagar De</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=38C2FF&center=true&vCenter=true&width=435&lines=Coder;Web+Developer;ECE+Student;Tech+Enthusiast" alt="Typing SVG">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarde007&label=Profile%20views&color=0e75b6&style=flat" alt="sagarde007" /> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<p align="left"> <a href="https://twitter.com/@sagarde713523" target="blank"><img src="https://img.shields.io/twitter/follow/@sagarde713523?logo=twitter&style=for-the-badge" alt="@sagarde713523" /></a> </p>
+<br>
 
-- 🤹‍♂️ I am a `3rd Year Student` at `Netaji Subhash Engineering College`.
+<div align="center">
+  <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+</div>
 
-- 🤹‍♂️ I’m currently learning `Data Structure` & `Web Development`.
+### 👨‍💻 About Me
 
-- 💬 Ask me about **`HTML, CSS, JAVASCRIPT,C++,DSA`.**
-- 📫 How to reach me **sagarde2004@gmail.com**
--  ⚡ Fun fact `Coding like poetry should be short and concise😂`
+- 🎓 **3rd Year ECE Student** at *Netaji Subhash Engineering College*
+- 🌱 Currently exploring **Data Structures** & **Web Development**
+- 🚀 Passionate about building innovative solutions
+- 💬 Ask me about `HTML` `CSS` `JavaScript` `C++` `DSA`
+- 📫 Reach me at: **sagarde2004@gmail.com**
+- ⚡ Fun fact: *"Code should be like poetry – short and concise"* 😄
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sagarde007&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views">
+  <a href="https://twitter.com/@sagarde713523">
+    <img src="https://img.shields.io/twitter/follow/@sagarde713523?logo=twitter&style=flat-square&color=1DA1F2" alt="Twitter Follow">
+  </a>
+</div>
+
+<br>
+
+---
+
+### 🌐 Connect With Me
+
 <p align="left">
-<a href="https://twitter.com/@sagarde713523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sagarde713523" height="30" width="40" /></a>
-<a href="https://instagram.com/sagarde777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagarde777" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sagar-de-76619628b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-de-76619628b/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Sagar_De/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Sagar_De/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/sagardwlgr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sagardwlgr/" height="30" width="40" /></a>
+  <a href="https://twitter.com/@sagarde713523">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://instagram.com/sagarde777">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/sagar-de-76619628b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/Sagar_De/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/sagardwlgr/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarde007&show_icons=true&locale=en&layout=compact" alt="sagarde007" /></p>
+### 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarde007&show_icons=true&locale=en" alt="sagarde007" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarde007&" alt="sagarde007" /></p>
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagarde007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarde007&layout=compact&theme=tokyonight&hide_border=true">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarde007&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <p>⭐️ From <a href="https://github.com/sagarde007">Sagar De</a></p>
+</div>
